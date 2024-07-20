@@ -1,0 +1,87 @@
+[
+    {
+      "name": "sessionid",
+      "value": "your_session_id_value",
+      "domain": ".instagram.com",
+      "path": "/",
+      "expires": 1666887567,
+      "size": 93,
+      "httpOnly": true,
+      "secure": true,
+      "session": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "csrftoken",
+      "value": "your_csrf_token_value",
+      "domain": ".instagram.com",
+      "path": "/",
+      "expires": 1666887567,
+      "size": 64,
+      "httpOnly": false,
+      "secure": true,
+      "session": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "ds_user_id",
+      "value": "your_user_id",
+      "domain": ".instagram.com",
+      "path": "/",
+      "expires": 1666887567,
+      "size": 10,
+      "httpOnly": false,
+      "secure": true,
+      "session": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shbid",
+      "value": "your_shbid_value",
+      "domain": ".instagram.com",
+      "path": "/",
+      "expires": 1666887567,
+      "size": 64,
+      "httpOnly": false,
+      "secure": true,
+      "session": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "shbts",
+      "value": "your_shbts_value",
+      "domain": ".instagram.com",
+      "path": "/",
+      "expires": 1666887567,
+      "size": 64,
+      "httpOnly": false,
+      "secure": true,
+      "session": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "rur",
+      "value": "your_rur_value",
+      "domain": ".instagram.com",
+      "path": "/",
+      "expires": 1666887567,
+      "size": 64,
+      "httpOnly": false,
+      "secure": true,
+      "session": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "mid",
+      "value": "your_mid_value",
+      "domain": ".instagram.com",
+      "path": "/",
+      "expires": 1666887567,
+      "size": 24,
+      "httpOnly": false,
+      "secure": true,
+      "session": false,
+      "sameSite": "None"
+    }
+  ]
+  
